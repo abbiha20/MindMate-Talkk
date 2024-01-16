@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "94766163166",
+    "firebase_url": "https://mindmate-talk-default-rtdb.firebaseio.com",
+    "project_id": "mindmate-talk",
+    "storage_bucket": "mindmate-talk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94766163166:android:93fe55e9dd93925bd04e4f",
+        "android_client_info": {
+          "package_name": "com.example.project_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94766163166-ao8id4jdmv1d25bc7jrgh4mp39j72tkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_demo",
+            "certificate_hash": "06d0f72b4bfc2490d168ece1e743707a3528cb14"
+          }
+        },
+        {
+          "client_id": "94766163166-3c0mb9mb3sugup5n273v49gp99cooj20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAznxgrEuhmceoc4oXkoWZ1NXUxLixh2kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94766163166-3c0mb9mb3sugup5n273v49gp99cooj20.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "94766163166-i1d3mknr68qq4iqckn4otcj45ndbj761.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectDemo.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
